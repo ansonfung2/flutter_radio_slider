@@ -58,7 +58,7 @@ class _RadioSliderState extends State<RadioSlider> {
             widget.onChanged(value.toInt());
           }
         },
-      ),
+      )
     );
   }
 
